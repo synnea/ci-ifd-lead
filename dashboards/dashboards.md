@@ -20,7 +20,7 @@ Crossfilter is what enables the filtering across multiple charts. Unfortunately 
 
 What happens if you try to console.log crossfiltered data?
 
-[!consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
+![consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
 
 
 
