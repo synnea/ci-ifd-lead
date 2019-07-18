@@ -26,7 +26,7 @@ Crossfilter is what enables the filtering across multiple charts. Unfortunately 
 
 ### Seeing cross-filtered data with print_filter.js
 
-What happens if you try to try to console.log your average crossfiltered data?
+What happens if you try to console.log your average crossfiltered data?
 
 &nbsp;
 ![consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
