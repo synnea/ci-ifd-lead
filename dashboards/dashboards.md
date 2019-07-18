@@ -67,7 +67,7 @@ Use print_filter whenever graphs do something you don't expect, to see which dat
 
 Unfortunately, the course material doesn't really tell us what crossfilter commands are available, and the official documentation does not offer easy visual guidance. So look at the following image for an overview:
 
-![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfcommands.PNG)
+![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/commands.PNG)
 
 The picture above shows all the possible crossfilter commands. Note that a *red dot* means the data can be inspected with console.log, and a *blue dot* means it can be looked at with print_filter. Most of these commands have child commands, indicated by a grey dot. You must reach the end point of a command line in order to execute a command correctly.
 
