@@ -95,6 +95,12 @@ For the meaning and purpose of each commmand, refer to the [crossfilter document
 
 * My own Milestone 2 project, with [github code](https://github.com/synnea/GoT-Dashboard) and a link to the deployed website: [A Dashboard of Ice and Fire](https://synnea.github.io/GoT-Dashboard/).
 
+&nbsp;
+
+## Credits
+
+The crossfilter visualizations are credited to the LinkedIn course "Crossfilter for Data Science Essential Training," which, along with their course on DC.js, I also recommend to anyone undertaking a Milestone project with dashboards. It offers comprehensive training in all things crossfilter. Note that you need to have a LinkedIn Premium subscription to access the course.
+
 
 
 
