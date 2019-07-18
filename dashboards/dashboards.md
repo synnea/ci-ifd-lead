@@ -1,4 +1,4 @@
-# Dashboards using D3, DC.js and Crossfilter.js
+# Tips for Dashboards
 
 So, you want to do a data dashboard for your second milestone, huh?
 
@@ -8,9 +8,11 @@ Let's get started!
 
 ## First things first
 
-First of all, I highly recommend heading over to [Tim's Notes](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/d3-dc.md) and reading this first. It will tell you what you need to get started. 
+First of all, go here [Tim's Notes](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/d3-dc.md).
 
-## Crossfilter
+Former lead Tim Nelson has already written an excellent introduction to dashboards, so I won't re-invent the wheel here.
+
+## Crossfilter Tips
 
 Crossfilter is what enables the filtering across multiple charts. Unfortunately the official documentation is not highly accessible, so here are some tips for using it.
 
@@ -18,7 +20,9 @@ Crossfilter is what enables the filtering across multiple charts. Unfortunately 
 
 What happens if you try to console.log crossfiltered data?
 
-[!consolelog]()
+[!consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
+
+
 
 
 
