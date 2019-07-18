@@ -57,12 +57,15 @@ As you can see, this actually allows you to inspect the data that you have loade
 
 &nbsp;
 
-Use print_filter whenever graphs do something you don't expect, to see which data you are working with. 
+Use print_filter whenever graphs do something you don't expect, to see which data you are working with. You can download the print_filter [HERE](https://gist.github.com/xhinking/9341806).
 
 &nbsp;
 
-You can download the print_filter [HERE](https://gist.github.com/xhinking/9341806).
+### The hidden anatomy of crossfilter commands
 
+&nbsp;
+
+Unfortunately, the course material doesn't really tell us what crossfilter grop
 
 
 
