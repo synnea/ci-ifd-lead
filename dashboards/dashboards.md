@@ -69,7 +69,7 @@ Unfortunately, the course material doesn't really tell us what crossfilter comma
 
 ![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfcommands.PNG)
 
-The picture above shows all the possible crossfilter commands. Note that a *red dot* means the data can be inspected with console.log, and a *blue dot* means it can be looked at with print_filter. 
+The picture above shows all the possible crossfilter commands. Note that a *red dot* means the data can be inspected with console.log, and a *blue dot* means it can be looked at with print_filter. Most of these commands have child commands, indicated by a grey dot. You must reach the end point of a command line in order to execute a command correctly.
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Note that the groupAll() command returns a single value, while the group() comma
 
 ![cfgroupcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfgroup.PNG)
 
-For the meaning and purpose of each commmand, refer to the ![crossfilter documentation](https://github.com/square/crossfilter/wiki/API-Reference).
+For the meaning and purpose of each commmand, refer to the [crossfilter documentation](https://github.com/square/crossfilter/wiki/API-Reference).
 
 &nbsp;
 
@@ -93,9 +93,7 @@ For the meaning and purpose of each commmand, refer to the ![crossfilter documen
 
 * [Intellipharm dc.js addons](https://github.com/Intellipharm/dc-addons) is a library for dc.js addons. Add tooltips to your charts, or support them in google maps of leaflet.js, along with many more addons. 
 
-Finally, take a look at my own project, A Dashboard of Ice and Fire, to see some of these concepts in action:
-
-* [github code](https://github.com/synnea/GoT-Dashboard) | *[A Dashboard of Ice and Fire ](https://synnea.github.io/GoT-Dashboard/)*
+* My own Milestone 2 project, with [github code] and a link to the deployed website: (https://github.com/synnea/GoT-Dashboard) | *[A Dashboard of Ice and Fire ](https://synnea.github.io/GoT-Dashboard/)*.
 
 
 
