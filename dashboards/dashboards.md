@@ -93,7 +93,7 @@ For the meaning and purpose of each commmand, refer to the [crossfilter document
 
 * [Intellipharm dc.js addons](https://github.com/Intellipharm/dc-addons) is a library for dc.js addons. Add tooltips to your charts, or support them in google maps of leaflet.js, along with many more addons. 
 
-* My own Milestone 2 project, with [github code](https://github.com/synnea/GoT-Dashboard) and a link to the deployed website:  | [A Dashboard of Ice and Fire](https://synnea.github.io/GoT-Dashboard/).
+* My own Milestone 2 project, with [github code](https://github.com/synnea/GoT-Dashboard) and a link to the deployed website: [A Dashboard of Ice and Fire](https://synnea.github.io/GoT-Dashboard/).
 
 
 
