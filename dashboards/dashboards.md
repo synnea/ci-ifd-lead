@@ -28,9 +28,12 @@ Crossfilter is what enables the filtering across multiple charts. Unfortunately 
 
 What happens if you try to console.log crossfiltered data?
 
+&nbsp;
 ![consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
 
 The above picture shows an example from my own Code Institute Milestone project, A Dashboard of Ice and Fire. If you want to check it out, you can find a link to it in the resources below.
+
+&nbsp;
 
 This is what this command outputs in the console:
 
@@ -38,19 +41,24 @@ This is what this command outputs in the console:
 
 It's just showing you that it's an object with methods to use on it. Not terribly useful, is it?
 
+&nbsp;
+
 So let's try using the *print_filter* function!
 
 ![printfilter](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/printfilter.PNG)
+&nbsp;
 
 Using this yields this in your dev tools' console:
 
 ![printfilter-result](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/printfilterresult.PNG)
 
 As you can see, this actually allows you to inspect the data that you have loaded into your crossfilter.
+&nbsp;
 
 Use print_filter whenever graphs do something you don't expect, to see which data you are working with. 
+&nbsp;
 
-You can download the print_filter (HERE)(https://gist.github.com/xhinking/9341806).
+You can download the print_filter !(HERE)(https://gist.github.com/xhinking/9341806).
 
 
 
