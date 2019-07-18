@@ -71,15 +71,36 @@ Unfortunately, the course material doesn't really tell us what crossfilter comma
 
 The picture above shows all the possible crossfilter commands. Note that a *red dot* means the data can be inspected with console.log, and a *blue dot* means it can be looked at with print_filter. 
 
+&nbsp;
+
 For the course, you are most likely going to work mostly with *dimensions*. So here are the crossfilter commands that work specifically on dimensions:
 
-![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfdimension.PNG)
+![cfdimcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfdimension.PNG)
 
 Note that the groupAll() command returns a single value, while the group() command returns several. These are the subcommands following group():
 
-
+![cfgroupcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfgroup.PNG)
 
 For the meaning and purpose of each commmand, refer to the ![crossfilter documentation](https://github.com/square/crossfilter/wiki/API-Reference).
+
+&nbsp;
+
+## Other Resources
+
+&nbsp;
+
+* [reductio.js](https://github.com/crossfilter/reductio) is a crossfilter grouping library that offers help with custom reducers. 
+
+* [Intellipharm dc.js addons](https://github.com/Intellipharm/dc-addons) is a library for dc.js addons. Add tooltips to your charts, or support them in google maps of leaflet.js, along with many more addons. 
+
+Finally, take a look at my own project, A Dashboard of Ice and Fire, to see some of these concepts in action:
+
+* [github code](https://github.com/synnea/GoT-Dashboard) | *[A Dashboard of Ice and Fire ](https://synnea.github.io/GoT-Dashboard/)*
+
+
+
+
+
 
 
 
