@@ -6,7 +6,8 @@ Well, the bad news is that there's probably a lot of "trial and error" in your n
 
 Let's get started!
 
-
+&nbsp;
+&nbsp;
 
 ## First things first
 
@@ -14,12 +15,14 @@ First of all, go here [Tim's Notes](https://github.com/TravelTimN/ci-ifd-lead/bl
 
 Former lead Tim Nelson has already written an excellent introduction to dashboards, so I won't re-invent the wheel here.
 
-
+&nbsp;
+&nbsp;
 
 ## Crossfilter Tips
 
 Crossfilter is what enables the filtering across multiple charts. Unfortunately the official documentation is not highly accessible, so here are some tips for using it.
 
+&nbsp;
 
 ### Seeing cross-filtered data with print_filter.js
 
@@ -46,6 +49,9 @@ Using this yields this in your dev tools' console:
 As you can see, this actually allows you to inspect the data that you have loaded into your crossfilter.
 
 Use print_filter whenever graphs do something you don't expect, to see which data you are working with. 
+
+You can download the print_filter (HERE)(https://gist.github.com/xhinking/9341806).
+
 
 
 
