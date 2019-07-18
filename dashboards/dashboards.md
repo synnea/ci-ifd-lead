@@ -65,7 +65,7 @@ Use print_filter whenever graphs do something you don't expect, to see which dat
 
 &nbsp;
 
-Unfortunately, the course material doesn't really tell us what crossfilter commands are available. So look at the following image for an overview:
+Unfortunately, the course material doesn't really tell us what crossfilter commands are available, and the official documentation does not offer easy visual guidance. So look at the following image for an overview:
 
 ![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfcommands.PNG)
 
@@ -78,6 +78,8 @@ For the course, you are most likely going to work mostly with *dimensions*. So h
 Note that the groupAll() command returns a single value, while the group() command returns several. These are the subcommands following group():
 
 
+
+For the meaning and purpose of each commmand, refer to the ![crossfilter documentation](https://github.com/square/crossfilter/wiki/API-Reference).
 
 
 
