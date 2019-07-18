@@ -11,9 +11,9 @@ Let's get started!
 
 ## First things first
 
-First of all, go here [Tim's Notes](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/d3-dc.md).
+First of all, go here for [Tim's Notes](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/d3-dc.md).
 
-Former lead Tim Nelson has already written an excellent introduction to dashboards, so I won't re-invent the wheel here.
+Former lead Tim Nelson has already written an excellent introduction to dashboards, so I won't be repeating what he's already said. His documentation will get you started on the basics.
 
 &nbsp;
 &nbsp;
