@@ -26,7 +26,7 @@ Crossfilter is what enables the filtering across multiple charts. Unfortunately 
 
 ### Seeing cross-filtered data with print_filter.js
 
-What happens if you try to console.log crossfiltered data?
+What happens if you try to try to console.log your average crossfiltered data?
 
 &nbsp;
 ![consolelog](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/consolelogdim.PNG)
@@ -65,7 +65,19 @@ Use print_filter whenever graphs do something you don't expect, to see which dat
 
 &nbsp;
 
-Unfortunately, the course material doesn't really tell us what crossfilter grop
+Unfortunately, the course material doesn't really tell us what crossfilter commands are available. So look at the following image for an overview:
+
+![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfcommands.PNG)
+
+The picture above shows all the possible crossfilter commands. Note that a *red dot* means the data can be inspected with console.log, and a *blue dot* means it can be looked at with print_filter. 
+
+For the course, you are most likely going to work mostly with *dimensions*. So here are the crossfilter commands that work specifically on dimensions:
+
+![cfcommands](https://github.com/synnea/ci-ifd-lead/blob/master/dashboards/images/cfdimension.PNG)
+
+Note that the groupAll() command returns a single value, while the group() command returns several. These are the subcommands following group():
+
+
 
 
 
